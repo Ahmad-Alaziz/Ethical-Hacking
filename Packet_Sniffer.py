@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import scapy.all as scapy, time, argparse, psutil, socket
 from scapy.layers import http
